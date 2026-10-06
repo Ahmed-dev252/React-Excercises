@@ -1,0 +1,9 @@
+
+
+
+.TodoForm{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  background-color: rgb(116, 32, 195);
+}
